@@ -170,7 +170,7 @@ class _ResumeState extends State<Resume> with SingleTickerProviderStateMixin {
                                       color: Colors.white,
                                       fontSize: 40.0,
                                       fontWeight: FontWeight.bold),
-                                )
+                                ),
                               ],
                             ),
                           )),
@@ -195,7 +195,7 @@ class _ResumeState extends State<Resume> with SingleTickerProviderStateMixin {
                                     color: Colors.white,
                                     fontSize: 40.0,
                                     fontWeight: FontWeight.bold),
-                              )
+                              ),
                             ],
                           ))
                     ]),
